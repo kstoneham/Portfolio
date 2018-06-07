@@ -11,6 +11,10 @@ footer {
     border-top: 8px solid #4aaaa5;
     height: 50px;
 }
+img {
+    width: 200px;
+    height: 200px;
+}
 h1 {
     padding-bottom: 20px;
     font-size: 30px;
